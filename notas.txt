@@ -1,0 +1,28 @@
+OXANIUM(GOOGLE FONTS)
+<link rel="stylesheet" href="./src/css/reset.css"> <!--"link:css" conectar o css com o html-->
+    
+display: flex;  /*deixa uma seção ao lado da outra(flex-direction:flow)*/
+flex-wrap: wrap;    /*senão tiver mais espaço o elemento é quebrado um embaixo do outro*/
+justify-content: center;	/*Centralizar elementos horizontalmente
+align-items: center;	/* alinha verticalmente
+
+espessura tipo cor
+
+espaço - elemento dento do outro
+junto - elemento que tem as duas classes
+texto não precisa de flex
+vh: viewport height(janela de exibição, tela do navegador)
+100vh(100% da altura da tela)
+
+px(coloca a altura do cabeçadlho)para descontar a altura do cabeçalho
+../voltar uma pasta
+
+eixo z(de profundidade)
+z-index:-1
+-1 fica por trás de tido
+1 fica por cima de tudo
+
+responsive viewer(extensão)
+
+links
+https://github.com/devemdobro/x-men-szpc/tree/main
